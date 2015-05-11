@@ -1,0 +1,20 @@
+﻿La génération a démarré 2015-03-24 22:38:12.
+     1>Projet "C:\Visual Studio 2013\Projects\GIF261\GIF261\GIF261.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\GIF261.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GIF261.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt btree.cpp main.cpp
+         main.cpp
+         btree.cpp
+     1>c:\visual studio 2013\projects\gif261\gif261\btree.cpp(40): warning C4018: '>=' : incompatibilité signed/unsigned
+         Génération de code en cours...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Visual Studio 2013\Projects\GIF261\Debug\GIF261.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Visual Studio 2013\Projects\GIF261\Debug\GIF261.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Visual Studio 2013\Projects\GIF261\Debug\GIF261.lib" /MACHINE:X86 Debug\btree.obj
+         Debug\main.obj
+         Debug\StdAfx.obj
+         GIF261.vcxproj -> C:\Visual Studio 2013\Projects\GIF261\Debug\GIF261.exe
+     1>Génération du projet "C:\Visual Studio 2013\Projects\GIF261\GIF261\GIF261.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.30
